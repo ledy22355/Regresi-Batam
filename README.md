@@ -11,5 +11,5 @@ Grafik 3D: Titik merah (data aktual) menyebar jauh dari bidang regresi, dan bida
 
 Kesimpulan: Biaya pendidikan dan biaya kesehatan tidak berpengaruh signifikan terhadap kemiskinan di Kota Batam (2014-2024), baik sendiri-sendiri maupun bersama-sama.
 
-Link Google COlab (https://colab.research.google.com/drive/14elr19WUlLv0uobK6l_7Oj7DjEYw4475?usp=sharing)
+Link Google Colab (https://colab.research.google.com/drive/14elr19WUlLv0uobK6l_7Oj7DjEYw4475?usp=sharing)
 
