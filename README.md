@@ -1,4 +1,4 @@
-Intercept/Penjelasan
+Intercept/Penjelasan Hasil
 
 Variabel yang digunakan: Biaya Pendidikan (X1) dan Biaya Kesehatan (X2) sebagai variabel independen, serta Kemiskinan (Y) sebagai variabel dependen.
 
